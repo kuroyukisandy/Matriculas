@@ -11,3 +11,10 @@ D:\Universidad\9no\Bases II\Matricula\Matricula\obj\Debug\Matricula.F_Principal.
 D:\Github\Matriculas\Matricula\bin\Debug\Matricula.exe.config
 D:\Github\Matriculas\Matricula\obj\Debug\Matricula.exe
 D:\Github\Matriculas\Matricula\obj\Debug\Matricula.pdb
+D:\Github\Matriculas\Matricula\bin\Debug\Matricula.exe
+D:\Github\Matriculas\Matricula\bin\Debug\Matricula.pdb
+D:\Github\Matriculas\Matricula\obj\Debug\Matricula.csprojResolveAssemblyReference.cache
+D:\Github\Matriculas\Matricula\obj\Debug\Matricula.F_matricula.resources
+D:\Github\Matriculas\Matricula\obj\Debug\Matricula.F_Principal.resources
+D:\Github\Matriculas\Matricula\obj\Debug\Matricula.Properties.Resources.resources
+D:\Github\Matriculas\Matricula\obj\Debug\Matricula.csproj.GenerateResource.Cache

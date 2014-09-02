@@ -33,6 +33,7 @@
             this.L_usuario = new System.Windows.Forms.Label();
             this.L_contraseña = new System.Windows.Forms.Label();
             this.B_ingresar = new System.Windows.Forms.Button();
+            this.B_Cancelar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // TB_usuario
@@ -73,7 +74,7 @@
             // 
             // B_ingresar
             // 
-            this.B_ingresar.Location = new System.Drawing.Point(106, 101);
+            this.B_ingresar.Location = new System.Drawing.Point(54, 104);
             this.B_ingresar.Name = "B_ingresar";
             this.B_ingresar.Size = new System.Drawing.Size(65, 26);
             this.B_ingresar.TabIndex = 4;
@@ -81,11 +82,22 @@
             this.B_ingresar.UseVisualStyleBackColor = true;
             this.B_ingresar.Click += new System.EventHandler(this.B_ingresar_Click);
             // 
+            // B_Cancelar
+            // 
+            this.B_Cancelar.Location = new System.Drawing.Point(156, 107);
+            this.B_Cancelar.Name = "B_Cancelar";
+            this.B_Cancelar.Size = new System.Drawing.Size(75, 23);
+            this.B_Cancelar.TabIndex = 5;
+            this.B_Cancelar.Text = "Cancelar";
+            this.B_Cancelar.UseVisualStyleBackColor = true;
+            this.B_Cancelar.Click += new System.EventHandler(this.B_Cancelar_Click);
+            // 
             // F_matricula
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(292, 142);
+            this.Controls.Add(this.B_Cancelar);
             this.Controls.Add(this.B_ingresar);
             this.Controls.Add(this.L_contraseña);
             this.Controls.Add(this.L_usuario);
@@ -106,6 +118,7 @@
         private System.Windows.Forms.Label L_usuario;
         private System.Windows.Forms.Label L_contraseña;
         private System.Windows.Forms.Button B_ingresar;
+        private System.Windows.Forms.Button B_Cancelar;
     }
 }
 

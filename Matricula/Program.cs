@@ -16,7 +16,11 @@ namespace Matricula
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new F_matricula());
+            F_matricula login = new F_matricula();
+            login.ShowDialog();
+            if(login.DialogResult==DialogResult.OK){
+                Application.Run(new F_Principal());
+            }
         }
     }
 }
