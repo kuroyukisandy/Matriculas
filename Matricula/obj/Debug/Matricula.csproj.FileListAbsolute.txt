@@ -18,3 +18,8 @@ D:\Github\Matriculas\Matricula\obj\Debug\Matricula.F_matricula.resources
 D:\Github\Matriculas\Matricula\obj\Debug\Matricula.F_Principal.resources
 D:\Github\Matriculas\Matricula\obj\Debug\Matricula.Properties.Resources.resources
 D:\Github\Matriculas\Matricula\obj\Debug\Matricula.csproj.GenerateResource.Cache
+D:\Github\Matriculas\Matricula\bin\Debug\Datos.dll
+D:\Github\Matriculas\Matricula\bin\Debug\Datos.pdb
+D:\Github\Matriculas\Matricula\bin\Debug\Encapsulado.dll
+D:\Github\Matriculas\Matricula\bin\Debug\Encapsulado.pdb
+D:\Github\Matriculas\Matricula\bin\Debug\MySql.Data.dll

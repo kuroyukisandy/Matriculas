@@ -1,0 +1,8 @@
+D:\Github\Matriculas\Datos\bin\Debug\Datos.dll
+D:\Github\Matriculas\Datos\bin\Debug\Datos.pdb
+D:\Github\Matriculas\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Github\Matriculas\Datos\obj\Debug\Datos.dll
+D:\Github\Matriculas\Datos\obj\Debug\Datos.pdb
+D:\Github\Matriculas\Datos\bin\Debug\Encapsulado.dll
+D:\Github\Matriculas\Datos\bin\Debug\Encapsulado.pdb
+D:\Github\Matriculas\Datos\bin\Debug\MySql.Data.dll

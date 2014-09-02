@@ -1,0 +1,5 @@
+D:\Github\Matriculas\Encapsulado\bin\Debug\Encapsulado.dll
+D:\Github\Matriculas\Encapsulado\bin\Debug\Encapsulado.pdb
+D:\Github\Matriculas\Encapsulado\obj\Debug\Encapsulado.csprojResolveAssemblyReference.cache
+D:\Github\Matriculas\Encapsulado\obj\Debug\Encapsulado.dll
+D:\Github\Matriculas\Encapsulado\obj\Debug\Encapsulado.pdb

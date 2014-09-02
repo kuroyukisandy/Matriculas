@@ -119,6 +119,10 @@
       <Project>{7057a729-47df-4c28-ac3e-90cb85bc317a}</Project>
       <Name>Datos</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Encapsulado\Encapsulado.csproj">
+      <Project>{ce517ea0-2fbd-41f4-9489-4c5418da8812}</Project>
+      <Name>Encapsulado</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

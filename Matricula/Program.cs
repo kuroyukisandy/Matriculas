@@ -21,6 +21,11 @@ namespace Matricula
             if(login.DialogResult==DialogResult.OK){
                 Application.Run(new F_Principal());
             }
+            if (login.DialogResult == DialogResult.Abort)
+            {
+                MessageBox.Show("No se pudieron verificar sus credenciales", "Error",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                Application.Restart();
+            }
         }
     }
 }
